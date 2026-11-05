@@ -125,7 +125,7 @@ In `libs.versions.toml`:
 
 ```toml
 [versions]
-docidv = "1.15.0"
+docidv = "1.19.0"
 
 [libraries]
 idnow-docidv-bom = { group = "io.idnow.docidv", name = "bom", version.ref = "docidv" }
